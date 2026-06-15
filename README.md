@@ -14,7 +14,7 @@ int main() {
 }
 
 
-markdown###
+###
 Lógica Nível 2: Adicionando alerta moderado com else if
 
 ```cpp
