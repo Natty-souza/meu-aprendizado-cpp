@@ -14,7 +14,16 @@ int main() {
 }
 
 
-Lógica Nível 2:
+markdown### Lógica Nível 2: Adicionando alerta moderado com else if
+
+```cpp
+#include <iostream>
+
+int main() {
+    double distancia_operador = 1.8;
+    // ... resto do código ...
+}
+```
 #include <iostream>
 
 int main() {
