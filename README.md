@@ -22,14 +22,7 @@ Lógica Nível 2: Adicionando alerta moderado com else if
 
 int main() {
     double distancia_operador = 1.8;
-    // ... resto do código ...
-}
-```
-#include <iostream>
-
-int main() {
-    double distancia_operador = 1.8;
-    
+ 
     if (distancia_operador < 1.0) {
         std::cout << "ALERTA MAXIMO: Parar robo imediatamente!" << std::endl;
     } 
