@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 int main() {
     double distancia_operador = 1.5; 
     
